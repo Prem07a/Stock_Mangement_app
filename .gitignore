@@ -1,0 +1,13 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+
+# IDE and environment-specific directories
+.idea/
+venv/
+
+# Ignore any log files
+*.log
+
+# Ignore any local environment configuration files
+.env
