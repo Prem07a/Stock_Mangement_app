@@ -1,6 +1,6 @@
 # Stock Market Management System
 
-Stock Market Management System is a Python application that allows users to manage their stock portfolios, buy and sell shares of different companies, and track their wallet balances. This project is built using the Tkinter library for the graphical user interface and interacts with a MySQL database for user registration and data storage.
+Stock Market Management System is a Python application that allows users to manage their stock portfolios, buy and sell shares of different companies, and track their wallet balances. This project is built using the CustomTkinter library for the graphical user interface and interacts with a MySQL database for user registration and data storage.
 
 ## About Me
 > **Name:** Prem Ganesh Gaikwad
@@ -10,7 +10,7 @@ Stock Market Management System is a Python application that allows users to mana
 
 ## Table of Contents
 
->[About Me](#about-me)
+> [About Me](#about-me)
 
 > [Features](#features)
 
