@@ -153,4 +153,4 @@ on stock trading and investment strategies.
  - Reward users for reaching trading milestones or achieving certain goals.
 
 
-> `© Prem Gaikwad 2023`
+`© Prem Gaikwad 2023`
