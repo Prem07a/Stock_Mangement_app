@@ -43,7 +43,7 @@ Stock Market Management System is a Python application that allows users to mana
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/stock-market-management-system.git
+   https://github.com/Prem07a/Stock_Mangement_app.git
    ```
 
 2. Install the required Python libraries:
