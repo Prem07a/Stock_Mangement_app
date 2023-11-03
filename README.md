@@ -43,7 +43,7 @@ Stock Market Management System is a Python application that allows users to mana
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Prem07a/Stock_Mangement_app.git
+   git clone https://github.com/your-username/stock-market-management-system.git
    ```
 
 2. Install the required Python libraries:
@@ -88,33 +88,33 @@ To set up the database, follow these steps:
 ## Screenshots
 
 ### Home Page
-- Dark Theme
+#### Dark Theme
 ![Homepage](./images/Homepage.png)
-- Light Theme
+#### Light Theme
 ![Homepage](./images/Homepage_l.png)
 
 ### Login Page
-- Dark Theme
+#### Dark Theme
 ![Login](./images/login.png)
-- Light Theme
+#### Light Theme
 ![Login](./images/login_l.png)
 
 ### Sign-Up Page
-- Dark Theme
+#### Dark Theme
 ![Sign-Up](./images/sign_up.png)
-- Light Theme
+#### Light Theme
 ![Sign-Up](./images/sign_up_l.png)
 
 ### Dashboard
-- Dark Theme
+#### Dark Theme
 ![Dashboard](./images/dashboard.png)
-- Light Theme
+#### Light Theme
 ![Dashboard](./images/dashboard_l.png)
 
 ### Orders
-- Dark Theme <br>
+#### Dark Theme <br>
 ![Order](./images/order.png)
-- Light Theme <br>
+#### Light Theme <br>
 ![Order](./images/order_l.png)
 
 ## Process Flow Diagram
