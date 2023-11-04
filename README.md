@@ -152,5 +152,8 @@ on stock trading and investment strategies.
  - Implement gamification elements to make the app more engaging.
  - Reward users for reaching trading milestones or achieving certain goals.
 
+## License
+
+[MIT License](LICENSE)
 
 `© Prem Gaikwad 2023`
